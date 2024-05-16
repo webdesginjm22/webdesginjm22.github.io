@@ -74,6 +74,7 @@ a {
 /* 본문 */
 
 #main-container {
+    font-family: 'KyoboHand';
     position: relative;
     width: 960px;
     margin: 0 auto;
