@@ -105,13 +105,6 @@ a {
     z-index: 10;
 }
 
-bg{
-    display: block;
-    position: fixed;
-    top: 0;
-    margin: 0 auto;
-    z-index: 1;
-}
 
 /* 미디어 쿼리*/
 
