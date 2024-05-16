@@ -51,6 +51,7 @@ a {
     color: white;
 }
 #navmenu {
+    font-family: 'Ownglyph_meetme-Rg';
     display: flex;
     position: absolute;
     bottom: 16px;
