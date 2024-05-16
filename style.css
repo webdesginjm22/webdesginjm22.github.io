@@ -78,6 +78,7 @@ a {
     margin: 0 auto;
     padding-top: 200px;
     padding-bottom: 60px;
+    z-index: 10;
     /*background-color: bisque;*/
 }
 #featured-image {
@@ -99,6 +100,7 @@ a {
     padding-top: 60px;
     text-align: center;
     font-size: 16px;
+    z-index: 10;
 }
 
 #bg{
