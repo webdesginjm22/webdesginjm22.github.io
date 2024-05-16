@@ -51,7 +51,6 @@ a {
     color: white;
 }
 #navmenu {
-    z-index: 5001;
     display: flex;
     position: absolute;
     bottom: 16px;
@@ -61,14 +60,14 @@ a {
 /* #navmenu 요소에 포함된 a 태그 스타일 설정 */
 #navmenu a {
     margin: 0 10px;
-    color: rgb(0, 0, 0);
+    color: #000;
 }
 #navmenu a:link {
     text-decoration: none;
 }
 #navmenu a:hover {
     text-decoration: underline;
-    color: white;
+    color: #c057ff;
 }
 
 /* 본문 */
