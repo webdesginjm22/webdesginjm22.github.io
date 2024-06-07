@@ -85,7 +85,7 @@ a {
 #featured-image {
     position: relative;
     width: 100%;
-    background-color: rgb(255,255,255,0.5);
+    background-color: rgba(255,255,255,0.5);
 }
 #featured-image img {
     width: 100%;
