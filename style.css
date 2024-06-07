@@ -81,6 +81,7 @@ a {
     padding-top: 200px;
     padding-bottom: 60px;
     z-index: 10;
+    background-color: #ffffff;
     /*background-color: bisque;*/
 }
 #featured-image {
