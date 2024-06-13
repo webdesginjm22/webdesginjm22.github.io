@@ -116,6 +116,7 @@ a {
 #remote{
     display: block;
     position: fixed;
+    width: 100px;
     top: 100px;
     right: 0;
     text-align: center;
@@ -123,6 +124,35 @@ a {
     margin: 0 auto;
     z-index: 1000;
     background-color: rgba(255,255,255,0.5);
+}
+#character{
+    background-color: rgba(255,255,255,0.8);
+}
+h{
+    font-size: 50px;
+}
+
+#C{
+    background-color: pink;
+}
+#H{
+    background-color: rgb(180, 211, 255);
+}
+#U{
+    background-color: rgb(255, 232, 142);
+}
+#K{
+    background-color: rgb(121, 75, 37);
+    color: white;
+}
+#M{
+    background-color: rgb(230, 243, 255);
+}
+#R{
+    background-color: antiquewhite;
+}
+#S{
+    background-color: orange;
 }
 
 
