@@ -116,7 +116,7 @@ a {
 #remote{
     display: block;
     position: fixed;
-    width: 100px;
+    width: 150px;
     top: 100px;
     right: 0;
     text-align: center;
@@ -125,6 +125,7 @@ a {
     z-index: 1000;
     background-color: rgba(255,255,255,0.5);
 }
+
 #character{
     background-color: rgba(255,255,255,0.8);
 }
